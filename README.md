@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://cloudvault-ruby.vercel.app/" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Developer-RONNIE/cloudvault/blob/main/public/assets/icons/git-banner.png" alt="Project Banner">
     </a>
   <br />
 
